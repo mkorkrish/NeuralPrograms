@@ -1,1 +1,1 @@
-•	Developed a neural signal processing program integrating traditional signal processing with machine learning to detect spikes in noisy simulated neural signals, achieving a classification accuracy of 67% with logistic regression and enhancing it to 67.14% with neural network training over 10 epochs.
+
